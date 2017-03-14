@@ -1,0 +1,9 @@
+backup-service/target/
+*/.settings/
+*/test-output/
+*/.classpath
+*/.gitignore
+*/.project
+*/.settings/
+.settings/org.eclipse.m2e.core.prefs
+.project
